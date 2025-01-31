@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Ecoclean",
+        "senha": "1234",
+        "nivel": "dono"
+    },
+    {
+        "nome": "Juliana",
+        "senha": "5678",
+        "nivel": "cliente"
+    }
+]
